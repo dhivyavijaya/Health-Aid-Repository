@@ -1,6 +1,6 @@
 # Health-Aid-Repository[Mini Project]
 
-Andriod based aplication
+Andriod based application
 
 Team Members:
 
